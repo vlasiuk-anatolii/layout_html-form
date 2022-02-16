@@ -1,15 +1,9 @@
 /* styles go here */
-.fieldset1,
-.fieldset2,
-.fieldset3,
-.fieldset4 {
+.fieldset {
   margin-bottom: 20px;
 }
 
-.fieldset1 :last-child,
-.fieldset2 :last-child,
-.fieldset3 :last-child,
-.fieldset4 :last-child {
+.fieldset :last-child {
   margin-bottom: 0;
 }
 
